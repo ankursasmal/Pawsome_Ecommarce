@@ -1,7 +1,7 @@
 *** folder structure ***
-   powsome-> 
+    powsome-> 
        |->front 
-       |->backend
+        |->backend
 
 ** split terminal *** 
 
@@ -14,4 +14,4 @@
         |->npm start
  
 
-   now it work properly
+ 
