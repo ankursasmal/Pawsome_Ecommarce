@@ -1,17 +1,17 @@
 *** folder structure ***
-powsome-> 
-     |->front 
-     |->backend
+   powsome-> 
+       |->front 
+       |->backend
 
 ** split terminal *** 
 
-cd backend 
-   |->npm install 
-   |->npm run dev
+    cd backend 
+        |->npm install 
+         |->npm run dev
 
-cd front 
-   |-> npm install 
-   |->npm start
-
+    cd front 
+       |-> npm install 
+        |->npm start
+ 
 
    now it work properly
